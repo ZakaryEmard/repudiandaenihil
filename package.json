@@ -1,0 +1,20 @@
+{
+  "name": "repudiandaenihil",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZakaryEmard/repudiandaenihil.git"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  },
+  "description": "Refined types for Typescript",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "KathryneHaag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakaryEmard/repudiandaenihil.git/issues"
+  },
+  "homepage": "https://github.com/ZakaryEmard/repudiandaenihil.git"
+}
